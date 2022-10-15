@@ -3,10 +3,10 @@
 
 > The data set was characterized with errors on budget and revenue. I removed the clolumns to fix the dataset.
 
-> Unpopular movies were found to have less popularity compared to the other movies.
+> The **unpopular movies** were found to have less popularity compared to the other movies.
 
-> Avatar movie was the most profitable movie
+> **Avatar movie** was the most profitable movie
 
-> The budget of films in the earlier years were lower as compared to the later years
+> The **budget** of **films** in the earlier years were lower as compared to the later years.
 
-> However, the data set was characterized with errors on budget and revenue. I removed the clolumns to fix the dataset.
+> However, the data set was characterized with errors on **budget** and **revenue.** I removed the clolumns to fix the dataset.
